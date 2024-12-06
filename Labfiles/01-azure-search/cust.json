@@ -1,0 +1,32 @@
+{
+    "value": [
+      {
+        "@search.action": "upload",
+        "id": "6a8d1b38309495de1bc4f653",
+        "firstName": "John",
+        "lastName": "Snow",
+        "isAlive": true,
+        "age": 29,
+        "address": {
+          "streetAddress": "The Wall",
+          "city": "Winterfell",
+          "state": "The North",
+          "postalCode": "99999"
+        },
+        "phoneNumbers": [
+          {
+            "phoneNumber":  {
+              "type": "home",
+              "number": "+1 (646) 123-4567"
+            }
+          },
+          {
+            "phoneNumber":  {
+              "type": "home",
+              "number": "+1 (899) 123-6789"
+            }
+          }
+        ]
+      }
+    ]
+  }

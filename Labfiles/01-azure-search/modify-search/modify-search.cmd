@@ -1,8 +1,8 @@
-@echo off
+
 
 rem Set values for your Search service
-set url=YOUR_SEARCH_URL
-set admin_key=YOUR_ADMIN_KEY
+set url=
+set admin_key=
 
 echo -----
 echo Updating the skillset...
